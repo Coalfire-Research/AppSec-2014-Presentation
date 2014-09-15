@@ -10,4 +10,4 @@ Repository contains:
 
 You can download current version of Clusterd at https://github.com/hatRiot/clusterd
 
-2 Target OVF files can be downloaded at 
+2 Target OVF files can be downloaded [here]  (https://drive.google.com/folderview?id=0Byb3QgL9pXopeGVPQ0VsUmlBWTQ&usp=sharing)
